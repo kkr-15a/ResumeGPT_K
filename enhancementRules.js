@@ -1,0 +1,217 @@
+export const enhancementRules = [
+  {
+    phrase: "hard-working",
+    suggestion: "Avoid generic traits. Show results from your effort.",
+    replacement: "delivered consistent results through persistence",
+    impact: "medium",
+  },
+  {
+    phrase: "team player",
+    suggestion: "Mention specific team outcomes you contributed to.",
+    replacement: "collaborated to drive cross-functional success",
+    impact: "low",
+  },
+  {
+    phrase: "responsible for",
+    suggestion: "Use action verbs like led, built, created.",
+    replacement: "led the initiative to",
+    impact: "high",
+  },
+  {
+    phrase: "worked on",
+    suggestion: "Be specific about your contribution and results.",
+    replacement: "engineered and deployed",
+    impact: "high",
+  },
+  {
+    phrase: "involved in",
+    suggestion: "State your exact role and what was achieved.",
+    replacement: "directly executed tasks in",
+    impact: "medium",
+  },
+  {
+    phrase: "helped with",
+    suggestion: "Avoid passive language. Highlight your impact.",
+    replacement: "initiated and supported",
+    impact: "medium",
+  },
+  {
+    phrase: "participated in",
+    suggestion: "Focus on what you led or delivered.",
+    replacement: "contributed significantly to",
+    impact: "medium",
+  },
+  {
+    phrase: "fast learner",
+    suggestion: "Prove it — what did you learn and apply?",
+    replacement: "quickly upskilled and delivered results",
+    impact: "low",
+  },
+  {
+    phrase: "motivated",
+    suggestion: "Motivation is implied. What did it lead to?",
+    replacement: "consistently exceeded targets through initiative",
+    impact: "medium",
+  },
+  {
+    phrase: "good communication skills",
+    suggestion: "Explain how your communication drove value.",
+    replacement: "effectively communicated to resolve team blockers",
+    impact: "low",
+  },
+  {
+    phrase: "detail-oriented",
+    suggestion: "Give an example of how this helped the project.",
+    replacement: "ensured data accuracy across project deliverables",
+    impact: "medium",
+  },
+  {
+    phrase: "self-starter",
+    suggestion: "Show what you initiated or delivered independently.",
+    replacement: "proactively initiated key process improvements",
+    impact: "medium",
+  },
+  {
+    phrase: "results-driven",
+    suggestion: "Quantify the results achieved.",
+    replacement: "achieved a 25% boost in performance metrics",
+    impact: "medium",
+  },
+  {
+    phrase: "problem solver",
+    suggestion: "Which problems? How did you solve them?",
+    replacement: "resolved production incidents with root-cause fixes",
+    impact: "high",
+  },
+  {
+    phrase: "dynamic",
+    suggestion: "Be specific. What did you adapt to?",
+    replacement: "adapted quickly to evolving client requirements",
+    impact: "medium",
+  },
+  {
+    phrase: "creative",
+    suggestion: "How was your creativity applied?",
+    replacement: "developed innovative automation scripts",
+    impact: "medium",
+  },
+  {
+    phrase: "excellent interpersonal skills",
+    suggestion: "Say what they helped you achieve.",
+    replacement: "navigated cross-team dependencies and feedback",
+    impact: "low",
+  },
+  {
+    phrase: "responsible for testing",
+    suggestion: "What kind of testing? What was the result?",
+    replacement: "designed and executed regression test suites",
+    impact: "high",
+  },
+  {
+    phrase: "assisted with deployment",
+    suggestion: "Show ownership instead of assistance.",
+    replacement: "coordinated successful CI/CD releases",
+    impact: "medium",
+  },
+  {
+    phrase: "strong work ethic",
+    suggestion: "Show what outcomes it led to.",
+    replacement: "consistently met tight deadlines on critical tasks",
+    impact: "low",
+  },
+  {
+    phrase: "passionate",
+    suggestion: "Passion is good — but show what you did with it.",
+    replacement: "enthusiastically led community training initiatives",
+    impact: "medium",
+  },
+  {
+    phrase: "multi-tasker",
+    suggestion: "Describe what you balanced and what you achieved.",
+    replacement: "managed multiple concurrent projects and deadlines",
+    impact: "medium",
+  },
+  {
+    phrase: "go-getter",
+    suggestion: "Prove your drive with an actual success.",
+    replacement: "took initiative to launch a new customer feedback system",
+    impact: "medium",
+  },
+  {
+    phrase: "people person",
+    suggestion: "Translate this into impact on collaboration or outcomes.",
+    replacement: "fostered strong cross-functional team relationships",
+    impact: "low",
+  },
+  {
+    phrase: "developed UI",
+    suggestion: "Be specific about what UI and which technologies were used.",
+    replacement: "built interactive UI components using React and Tailwind CSS",
+    impact: "medium",
+  },
+  {
+    phrase: "used React",
+    suggestion: "Explain how React was used to improve user experience.",
+    replacement: "leveraged React to create dynamic single-page applications",
+    impact: "medium",
+  },
+  {
+    phrase: "familiar with Node.js",
+    suggestion: "Indicate how you applied Node.js to real backend scenarios.",
+    replacement: "developed REST APIs using Node.js and Express",
+    impact: "high",
+  },
+  {
+    phrase: "involved in deployment",
+    suggestion: "Clarify your exact role in the deployment process.",
+    replacement: "managed deployment pipeline using AWS EC2 and GitHub Actions",
+    impact: "high",
+  },
+  {
+    phrase: "worked in frontend",
+    suggestion: "Mention technologies and user impact.",
+    replacement:
+      "engineered responsive UIs using React, JavaScript, and HTML/CSS",
+    impact: "medium",
+  },
+  {
+    phrase: "wrote code",
+    suggestion: "Highlight specific features or challenges solved.",
+    replacement: "implemented reusable logic for real-time form validation",
+    impact: "medium",
+  },
+  {
+    phrase: "backend development",
+    suggestion: "Explain what functionality you built and tools used.",
+    replacement: "built scalable backend APIs with Node.js and MongoDB",
+    impact: "high",
+  },
+  {
+    phrase: "integrated APIs",
+    suggestion: "Specify the APIs and what features they enabled.",
+    replacement:
+      "integrated third-party payment and auth APIs to streamline checkout",
+    impact: "high",
+  },
+  {
+    phrase: "performed testing",
+    suggestion: "What type of tests and what did they validate?",
+    replacement:
+      "wrote unit and integration tests using Jest and React Testing Library",
+    impact: "medium",
+  },
+  {
+    phrase: "used Docker",
+    suggestion: "Mention how Docker improved your workflow or CI/CD.",
+    replacement:
+      "containerized microservices using Docker for consistent dev environments",
+    impact: "high",
+  },
+  {
+    phrase: "deployment to cloud",
+    suggestion: "Which cloud provider and how was it automated or scaled?",
+    replacement:
+      "automated AWS deployments using CI/CD pipelines with GitHub Actions",
+    impact: "high",
+  },
+];
